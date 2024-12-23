@@ -46,6 +46,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             Read scope
+            test 01ですよ
           </a>
         </div>
       </main>
